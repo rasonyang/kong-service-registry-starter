@@ -11,7 +11,10 @@
 </dependency>
 ```
 
-# Cofiguration Properties (classpath:application.properties)
+# Cofiguration Properties 
+
+> classpath:application.properties
+
 ```properties
 kong.adminUrl=http://localhost:8001
 kong.serviceRegistry.name="app"
